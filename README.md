@@ -1,0 +1,1 @@
+#Se realiza el programa, tan pronto inicia el index muestra el listado de los cursos esperando cada dos segundos, para realizar la inscricion se debe escribir el archivo index inscripcion y poner los datos obligatorios

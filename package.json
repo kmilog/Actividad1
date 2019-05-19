@@ -1,0 +1,15 @@
+{
+  "name": "actividad",
+  "version": "1.0.1",
+  "description": "Actividad Numero 1 NodeJS",
+  "main": "Index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Andres Guerrero stratocagm@gmail.com",
+  "license": "ISC"
+}

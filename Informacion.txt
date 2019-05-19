@@ -1,0 +1,3 @@
+Nombre Aspirante Camilo
+Cedula 1032414052
+Curso: Programacion Duracion: 90 Horas Valor: 100000
